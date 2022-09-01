@@ -61,5 +61,3 @@ buck-out/
 /vendor/bundle/
 
 # Project exclude paths
-/android/
-/ios/
